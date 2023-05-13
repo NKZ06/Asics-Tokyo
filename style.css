@@ -1,0 +1,32 @@
+.bg{
+    weight: 1512;
+    height: 384;
+}
+
+header{
+background-image: url(images/bg.jpg);
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+
+h3{
+    size: 40;
+    justify-content: start;
+h4{
+    size:20;
+    justify-content: start;
+}
+
+main{
+    weight: 1512;
+    hight: 595;
+    background-color: #FF9696;
+}
